@@ -1,6 +1,6 @@
 # Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching
 
-The code for "Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching"
+The code for ["Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching"](https://arxiv.org/abs/2410.02534).
 
 ## Citation
 
